@@ -1,0 +1,12 @@
+{
+  "name": "dev-kit",
+  "version": "1.0.0",
+  "description": "Simple dev kit",
+  "scripts": {
+    "gb": "git branch",
+    "gs": "git status",
+    "emo": "./scripts/emoji.sh"
+  },
+  "author": "Louis David",
+  "license": "ISC"
+}
